@@ -6,10 +6,12 @@ Eu sou o Metzker
 
 - 🚀 I'm working to build a **New World**.
 ##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrMetzker&count_private=true&show_icons=true&theme=transparent)](https://github.com/SrMetzker/github-readme-stats)
+<!--- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrMetzker&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) --->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&hide_progress=true)](https://github.com/SrMetzker/github-readme-stats) --->
+##
 
-<!---
-SrMetzker/SrMetzker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!--- 
 --->
 
 <div style="display: inline_block"><br>
