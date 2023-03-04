@@ -1,6 +1,7 @@
-E aí 🙋🏽‍♂️
+Olá 🙋🏽‍♂️
+Eu sou o Metzker
 ##
-- 
+
 - 🤖 I’m @SrMetzker
 - 🖥️ I’m a student of **_CSharp_** and **_TypeScript_**
 - 🚀 I'm working to build a **New World**.
