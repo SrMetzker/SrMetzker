@@ -1,10 +1,11 @@
-- Hello'
+E aí 🙋🏽‍♂️
+##
 - 
-- 🙋🏽‍♂️ I’m @SrMetzker
-- 🖥️ I’m a student of <blue>**_CSharp_**</blue>
+- 🤖 I’m @SrMetzker
+- 🖥️ I’m a student of **_CSharp_** and **_TypeScript_**
 - 🚀 I'm working to build a **New World**.
-- 
-- **Future _CSharp_ developer**. 💫🚀
+
+##
 
 <!---
 SrMetzker/SrMetzker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
