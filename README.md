@@ -14,14 +14,11 @@
   </h3>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrMetzker&count_private=true&show_icons=true&theme=react)](https://github.com/SrMetzker/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&count_private=true&show_icons=true&theme=react)](https://github.com/SrMetzker/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&layout=compact&langs_count=7&theme=dark"/>
 
 <!--- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
---->
-
-<!--- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrMetzker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&layout=compact&langs_count=7&theme=dark"/>
 --->
 
 <div align="center">
