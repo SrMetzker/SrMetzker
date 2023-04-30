@@ -1,13 +1,13 @@
 <div align="center">
-  <h1> Olá Mundo🙋🏽‍♂️ </h1>
+  <h1> Hello World🙋🏽‍♂️ </h1>
   <p>
-    <h2>Eu sou o Metzker</h2>
+    <h2>I'm Metzker</h2>
   </p>
 
 
- 🤖 Estudo e trabalho como desenvolvedor _Back-end_ em _NodeJS_
+ 🤖 I study and work as a _Back-end_ developer with _NodeJS_
   <br>
- 📱 Também estudo desenvolvimento mobile com _.NET_ e _Xamarin_
+ 📱 I'm learning mobile development with _.NET_ and _Xamarin_
   <br>
   <h3>
  🚀 I'm working to build a New World.
@@ -22,7 +22,7 @@
 ##
 
 <div align="center">
-  <h3>📡 Tecnologias</h3>
+  <h3>📡 Technologies</h3>
 
   <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-nodejs"/>
