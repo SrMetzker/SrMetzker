@@ -15,14 +15,14 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrMetzker&count_private=true&show_icons=true&theme=react)](https://github.com/SrMetzker/)
 
-<!--- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrMetzker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&layout=compact&langs_count=7&theme=dark"/>
---->
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMetzker&layout=compact&langs_count=2&show_icons=true&theme=react"/>
+</div>
+
+##
 
 <div align="center">
-<h2>📡 Tecnologias</h2>
+  <h3>📡 Tecnologias</h3>
 
   <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-nodejs"/>
