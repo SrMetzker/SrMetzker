@@ -7,7 +7,7 @@
 
  🤖 I study and work as a _Back-end_ developer with _NodeJS_
   <br>
- 📱 I'm learning mobile development with _.NET_ and _Xamarin_
+ 📱 I'm learning mobile development with _C#_ and _Xamarin_
   <br>
   <h3>
  🚀 I'm working to build a New World.
