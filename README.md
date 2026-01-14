@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Metzker
 
 Backend-focused Software Developer with hands-on experience in **.NET** and **Node.js**.  
-I enjoy building scalable APIs, working with databases, and continuously improving code quality and system design.
+Currently expanding into **Full Stack Development** by studying **React.js**, with a strong focus on building scalable, well-structured applications.
 
 ---
 
